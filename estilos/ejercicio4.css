@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+semana{
+    list-style-type: square;
+}
+
+dia {
+    color: black;
+    margin: 1em;
+}
+
+temperatura{
+    font-style: italic;
+    border-radius: 1em;
+    border: 1em;
+    
+}
+
+max{
+    background-color: red;
+    color: white;
+}
+
+min{
+    background-color: aqua;
+    color: white;
+}
+

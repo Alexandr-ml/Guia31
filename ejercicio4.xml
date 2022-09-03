@@ -1,0 +1,55 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?xml-stylesheet href="estilos/ejercicio4.css" type="text/css"?>
+<registro_de_temperaturas>
+    <semana id="1">
+        <dia>Lunes
+            <temperatura>
+                <promedio>30°C</promedio>
+                <min>28°C</min>
+                <max>32°C</max>
+            </temperatura>
+        </dia>
+        <dia>Martes
+            <temperatura>
+                <promedio>30°C</promedio>
+                <min>28°C</min>
+                <max>32°C</max>
+            </temperatura>
+        </dia>
+        <dia>Miercoles
+            <temperatura>
+                <promedio>30°C</promedio>
+                <min>28°C</min>
+                <max>32°C</max>
+            </temperatura>
+        </dia>
+        <dia>Jueves
+            <temperatura>
+                <promedio>30°C</promedio>
+                <min>28°C</min>
+                <max>32°C</max>
+            </temperatura>
+        </dia>
+        <dia>Viernes
+            <temperatura>
+                <promedio>30°C</promedio>
+                <min>28°C</min>
+                <max>32°C</max>
+            </temperatura>
+        </dia>
+        <dia>Sabado
+            <temperatura>
+                <promedio>30°C</promedio>
+                <min>28°C</min>
+                <max>32°C</max>
+            </temperatura>
+        </dia>
+        <dia>Domingo
+            <temperatura>
+                <promedio>30°C</promedio>
+                <min>28°C</min>
+                <max>32°C</max>
+            </temperatura>
+        </dia>
+    </semana>
+</registro_de_temperaturas>

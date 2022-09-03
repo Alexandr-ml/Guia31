@@ -1,0 +1,26 @@
+/* ejemplo1.css   ML19017 */
+@charset "UTF-8";
+
+fichero {
+    background-color: blue;
+}
+
+ficha {
+    background-color: red;
+    display: block;
+}
+
+nombre {
+    color: white;
+    display: block;
+}
+
+apellido {
+    color: yellow;
+    display: block;
+}
+direccion {
+    color: yellow;
+    font-size: 1cm; 
+    display: block;
+}

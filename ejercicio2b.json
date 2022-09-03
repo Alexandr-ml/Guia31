@@ -1,0 +1,28 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@codigoarea":"503",
+		"@moneda":"Dolar estadounidense",
+		"nombre":"El Salvador",
+		"moneda":"Colón, Dolar",
+		"codigo_area":"503",
+		"idiomas":"Español",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"San Miguel",
+				"cabecera":"San Miguel",
+				"habitantes":"581,410",
+				"altura":"110 MSNM",
+				"area":"593.98 km cuadrados"
+			}
+		]
+	}
+}
